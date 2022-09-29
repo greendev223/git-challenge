@@ -1,5 +1,6 @@
 //Hello.  Thank you for giving me this opportunity.
 //I will do my best.
+//Thank you.
 const tape = require('tape')
 const jsonist = require('jsonist')
 
